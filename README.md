@@ -1,7 +1,7 @@
 # coldify-ai
 
 
-`coldify-ai` is an innovative Node.js project that leverages the power of technologies like [Apify/crawlee](https://github.com/apify/crawlee), [OpenAI API](https://www.openai.com/api/), and [Apollo](https://www.apollographql.com/) to revolutionize the way you engage with your leads. By taking a lead list (from Apollo.io, a CSV file, or similar), `coldify-ai` not only scrapes the website associated with the lead but also composes and sends a fully personalized cold email to them.
+`coldify-ai` is an innovative Node.js project that leverages the power of technologies like [Apify/crawlee](https://github.com/apify/crawlee), [OpenAI API](https://www.openai.com/api/), and [Apollo](https://www.apollo.io/) to revolutionize the way you engage with your leads. By taking a lead list (from Apollo.io, a CSV file, or similar), `coldify-ai` not only scrapes the website associated with the lead but also composes and sends a fully personalized cold email to them.
 
 ## Features
 * Automated Web Scraping
